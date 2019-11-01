@@ -1,5 +1,7 @@
 package constructors;
 
+//adding comments to a file
+//this class demonstrates how copy constructors are made 
 public class CopyConstructor {
 
 	private double real, imaginary;
